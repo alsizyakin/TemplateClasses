@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.0.0)
 project(TemplClasses VERSION 0.1.0)
 
-add_executable(${CMAKE_PROJECT_NAME} table.cpp)
+add_executable(${CMAKE_PROJECT_NAME} deq.cpp)
 
 include_directories()
 
